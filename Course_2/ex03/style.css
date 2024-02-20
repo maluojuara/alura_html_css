@@ -5,9 +5,12 @@ https://www.figma.com/file/dRdkkewTSz9Xu1TXoQkW0u/Portfolio---Curso-1?type=desig
 I changed the text and image to translate to english and to fill with my own information. This is my version of the page: 
 https://www.figma.com/file/fAfvnOjNkeY9eU8pkX6AWA/curso-alura---aula-1?type=design&node-id=0%3A1&mode=dev&t=TInG3zKN467RVFO5-1 
 
-In this exercise, we learned how to position elements at page, height, box-sizing and flexbox */
+In this exercise, we learned how to style texts and fonts */
 
-* { 
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital@0;1&display=swap');
+
+*{ 
     margin: 0;
     padding: 0;
 }
@@ -36,4 +39,18 @@ a{
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.presentation__content{
+    width: 612px;
+}
+
+.presentation__content__title{
+    font-size: 36px;
+    font-family: "Krona One", sans-serif;
+}
+
+.presentation__content__paragraph{
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
 }
