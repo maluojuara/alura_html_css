@@ -1,11 +1,16 @@
-/*The goal of this exercise is to start adding stylizations with CSS to the HTML script created in 
+/* The goal of this exercise is to continue the stylizations with CSS to the HTML script created in 
 the previous exercise, in order to reproduce this Figma page:
 https://www.figma.com/file/dRdkkewTSz9Xu1TXoQkW0u/Portfolio---Curso-1?type=design&node-id=0-1&mode=design&t=PD91mX6WMbIt2QJi-0 
 
 I changed the text and image to translate to english and to fill with my own information. This is my version of the page: 
-https://www.figma.com/file/fAfvnOjNkeY9eU8pkX6AWA/curso-alura---aula-1?type=design&node-id=0%3A1&mode=dev&t=TInG3zKN467RVFO5-1 */
+https://www.figma.com/file/fAfvnOjNkeY9eU8pkX6AWA/curso-alura---aula-1?type=design&node-id=0%3A1&mode=dev&t=TInG3zKN467RVFO5-1 
 
+In this exercise, we learned how to create classes in CSS and use the CSS reset for margins and paddings --> */
 
+* { 
+    margin: 0;
+    padding: 0;
+}
 body {
     background-color: black;
     color: #f6f6f6;
@@ -20,6 +25,6 @@ a{
     border-radius: 16px;
 }
 
-strong{
+.title-highlight {
     color: #22D4FD;
 }
