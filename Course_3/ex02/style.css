@@ -1,0 +1,85 @@
+/* The goal of this course (3rd) is to improve the page created  in the previous course and 
+    add a new page (implement navigation functionality). This is the new Figma 
+    layout that we have to reproduce (with my own information and translated to english): 
+    https://www.figma.com/file/aEhP3iQeLfklwPgsxtfQxf/Portfolio---Curso-3-(Copy)?type=design&node-id=0-1&mode=design&t=DrJN4fVqu18nDOQ1-0
+
+    In the second exercise, we learned how to add icons to clickable links;
+    align elements with justify-content; style elements by hovering 
+    over them with the selector */
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+*{ 
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: black;
+    color: #f6f6f6;
+}
+
+.presentation{
+    margin: 10% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.presentation__content{
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.presentation__content__title{
+    font-size: 36px;
+    font-family: "Krona One", sans-serif;
+}
+
+.title-highlight {
+    color: #22D4FD;
+}
+
+.presentation__content__paragraph{
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.presentation__links{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32px;
+
+}
+
+.presentation__links__subtitle{
+    font-family: "Krona One", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+.presentation__links__button{
+    display:flex;
+    justify-content: center;
+    gap: 16px;
+    width: 378px;
+    padding: 21.5px 0;
+    text-align: center;
+    border-radius: 8px;
+    border: 2px solid #22D4FD;
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+}
+
+.presentation__links__button:hover{
+    background-color: #272727;
+}
