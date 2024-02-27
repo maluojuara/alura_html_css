@@ -1,0 +1,125 @@
+/* The goal of this course (4th) is to improve the page created  in the previous course and 
+adding elements to promote responsiveness of the web page. The Figma layout is the same:
+https://www.figma.com/file/aEhP3iQeLfklwPgsxtfQxf/Portfolio---Curso-3-(Copy)?type=design&node-id=0-1&mode=design&t=DrJN4fVqu18nDOQ1-0
+
+In this class, we learned how to adapt image elements using relative measurement units (percentage) */
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+:root{
+    --main-color-black: #000000;
+    --second-color-white: #F6F6F6;
+    --third-color-blue: #22D4FD;
+    --color-hover: #272727;
+
+    --font-krona: "Krona One", sans-serif;;
+    --font-montserrat: "Montserrat", sans-serif;;
+
+}
+
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: var(--main-color-black);
+    color: var(--second-color-white);
+}
+
+.header{
+    padding: 2% 0% 0% 15%;
+}
+
+.header__menu{
+    display: flex;
+    gap: 80px;
+}
+
+.header__menu__link{
+    color: var(--third-color-blue);
+    font-family: var(--font-montserrat);
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.presentation{
+    padding: 5% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.presentation__content{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.presentation__content__title{
+    font-size: 2.25rem;
+    font-family: var(--font-krona);
+}
+
+.title-highlight {
+    color: var(--third-color-blue);
+}
+
+.presentation__content__paragraph{
+    font-size: 1.5rem;
+    font-family: var(--font-montserrat);
+}
+
+.presentation__links{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32px;
+
+}
+
+.presentation__links__subtitle{
+    font-family: var(--font-krona);
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+
+.presentation__links__button{
+    display:flex;
+    justify-content: center;
+    gap: 16px;
+    width: 50%;
+    padding: 21.5px 0;
+    text-align: center;
+    border-radius: 8px;
+    border: 2px solid var(--third-color-blue);
+    font-size: 1.5rem;
+    font-family: var(--font-montserrat);
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--second-color-white);
+}
+
+.presentation__links__button:hover{
+    background-color: var(--color-hover);
+}
+
+.presentation__image{
+    width: 50%;
+
+}
+
+.footer{
+    background-color: var(--third-color-blue);
+    font-family: var(--font-montserrat);
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--main-color-black);
+    padding: 23.64px;
+    text-align: center;
+}
