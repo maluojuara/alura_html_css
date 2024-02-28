@@ -29,7 +29,9 @@ This repository contains the files and projects developed during my learning pro
 | [HTML and CSS: development environments, file structure and tags](https://github.com/maluojuara/alura_html_css_basic/tree/main/Course_1)   |✅      | [🖇️](https://cursos.alura.com.br/certificate/maluojuara/html-css-ambiente-arquivos-tags) |
 | [HTML and CSS: Classes, positioning and Flexbox](https://github.com/maluojuara/alura_html_css_basic/tree/main/Course_2)                     |✅      | [🖇️](https://cursos.alura.com.br/user/maluojuara/course/html-css-classes-posicionamento-flexbox/certificate)  | 
 | [HTML and CSS: header, footer and CSS variables](https://github.com/maluojuara/alura_html_css/tree/main/Course_3)                    |✅      | [🖇️](https://cursos.alura.com.br/certificate/maluojuara/html-css-cabecalho-footer-variaveis-css?lang=en)  | 
-| HTML and CSS: working with responsiveness and publishing projects |☑️      | []()  | 
+| [HTML and CSS: working with responsiveness and publishing projects](https://github.com/maluojuara/alura_html_css/tree/main/Course_4) |✅      | [🖇️](https://cursos.alura.com.br/certificate/maluojuara/html-css-responsividade-publicacao-projetos?lang=en)  | 
+| HTML and CSS: practicing |☑️     | []()  | 
+| HTML and CSS: responsiveness with mobile-first |☑️     | []()  |
 
 
 </div>
