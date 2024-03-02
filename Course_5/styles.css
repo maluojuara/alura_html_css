@@ -1,0 +1,28 @@
+:root{
+    --main-white: #FFFFFF;
+    --second-white: #F9F9F9;
+    --grey: #C0C0C0;
+    --blue-buttom: #167BF7;
+    --background-black: #00030C;
+    --font-title: "Inter", sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: var(--background-black);
+}
+
+.main{
+    color: var(--main-white);
+    background-image: url("img/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.container{
+    height: 100vh;
+}
