@@ -4,7 +4,7 @@
     --grey: #C0C0C0;
     --blue-buttom: #167BF7;
     --background-black: #00030C;
-    --font-title: "Inter";
+    --font-main: "Inter";
 }
 
 *{
@@ -14,16 +14,18 @@
 
 body{
     background-color: var(--background-black);
-    font-family: var(--font-title);
+    color: var(--main-white);
+    font-family: var(--font-main);
     font-size: 16px;
     font-weight: 400;
 }
 
 .main{
-    color: var(--main-white);
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
+    text-align: center;
 }
 
 .container{
@@ -35,6 +37,7 @@ body{
 .container__content{
     display: flex;
     flex-direction: column;
+    margin: 0 6em;
 }
 
 .container__content__title{
@@ -42,25 +45,56 @@ body{
     font-weight: 700;
 }
 
-.container__content__button__1{
+.container__content__image{
+    margin: 1em 0 2em 0;
+
+}
+
+.container__content__button{
     background-color: var(--blue-buttom);
     border-radius: 8px;
     padding: 1em;
     color: var(--main-white);
     text-decoration: none;
     display: block;
+    margin-bottom: 1em;
 }
 
-.container__content__button__2{
-    padding: 1em;
+.secondary_button{
     border: solid 1px var(--main-white);
-    border-radius: 8px;
     background-color: transparent;
-    color: var(--main-white);
-    text-decoration: none;
 }
 
 .container__content__notice{
     font-size: 12px;
     color: var(--grey);
 }
+
+.secondary__image{
+    width: 80%;
+}
+
+.secondary{
+    align-items: center;
+    margin: 0 10em;
+}
+
+.container__description{
+    padding: 2em;
+}
+.container__description__title{
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--main-white);
+    margin-bottom: 0.1em;
+}
+
+.container__description__text{
+    color: var(--grey);
+}
+
+.small__secondary__button{
+    display: inline-block;
+    margin-top: 1em;
+}
+
