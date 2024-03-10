@@ -1,3 +1,7 @@
+/* The goal of this course is to recreate the layout of a previously provided Figma page
+https://www.figma.com/file/2tE4RFjnTCk2dgsF9FGYbg/Alura-Plus---Layout-(Copy)?type=design&node-id=0-1&mode=design&t=qy4cPJX0Rky4HsQB-0*/
+
+
 :root{
     --main-white: #FFFFFF;
     --second-white: #F9F9F9;
@@ -85,7 +89,6 @@ body{
 .container__description__title{
     font-weight: 700;
     font-size: 48px;
-    color: var(--main-white);
     margin-bottom: 0.1em;
 }
 
@@ -98,3 +101,64 @@ body{
     margin-top: 1em;
 }
 
+.devices__title{
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--main-white);
+    margin-bottom: 1em;
+}
+
+.devices{
+    text-align: center;
+}
+.devices__list{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-bottom: 8em;
+}
+
+.devices__list__item{
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--main-white);
+}
+
+.footer{
+   
+    text-align: center;
+    margin: 3em;
+}
+
+
+.footer__list{
+    display: flex;
+    margin-top: 1em;
+    justify-content: center;
+}
+
+.footer__list a{
+    text-decoration: none;
+    color: var(--main-white);
+    margin-left: 1em;
+    font-size: 16px;
+}
+
+.footer__list__link{
+    list-style-type: none;
+}
+
+.footer__text{
+    font-size: 14px;
+    color: var(--grey);
+    margin: 1em 0;
+}
+
+.footer__list a:hover{
+    color: var(--blue-buttom);
+}
+
+
+.container__content__button:hover{
+    opacity: 0.6;
+}
