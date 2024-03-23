@@ -1,6 +1,6 @@
-[![Stars](https://img.shields.io/github/stars/maluojuara/data_science_bootcamp_santander_dio?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/maluojuara/data_science_bootcamp_santander_dio)
-[![Size](https://img.shields.io/github/repo-size/maluojuara/data_science_bootcamp_santander_dio?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/maluojuara/data_science_bootcamp_santander_dio)
-[![Activity](https://img.shields.io/github/last-commit/maluojuara/data_science_bootcamp_santander_dio?color=red&label=Last%20Commit&style=flat)](https://github.com/maluojuara/data_science_bootcamp_santander_dio)
+[![Stars](https://img.shields.io/github/stars/maluojuara/alura_html_css?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/maluojuara/alura_html_css)
+[![Size](https://img.shields.io/github/repo-size/maluojuara/alura_html_css?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/maluojuara/alura_html_css)
+[![Activity](https://img.shields.io/github/last-commit/maluojuara/alura_html_css?color=red&label=Last%20Commit&style=flat)](https://github.com/maluojuara/alura_html_css)
 
 
 <h1>
