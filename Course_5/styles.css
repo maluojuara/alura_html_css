@@ -162,3 +162,20 @@ body{
 .container__content__button:hover{
     opacity: 0.6;
 }
+
+
+@media screen and (max-width: 768px) {
+    .container{
+        display: block;
+        background-image: none;
+        text-align: center;
+    }
+
+    .container__content__image{
+        width: 50vw;
+    }
+
+    .container__content{
+        margin: 2em 2em;
+    }
+}
