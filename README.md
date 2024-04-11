@@ -5,7 +5,7 @@
 
 <h1>
     <a href="https://cursos.alura.com.br/formacao-html-css">
-      <img align="center" width="37px" src="https://yt3.googleusercontent.com/cGRoOhqP2VocjNL_Mo8YtfNP-ovm7aqRg1z-RmNUdLkgmHZG4LXgk9AuIT_pKsies9AoYfj-PA=s900-c-k-c0x00ffffff-no-rj"></a>
+      <img align="center" width="37px" src="https://yt3.googleusercontent.com/W7GokEE6ydjZFa_Tpz6yvSsDlVPTe7d4yTsJqKXy1Gbhu1BGXCfKJ_I-_TzOq37m8R9S97kQ=s900-c-k-c0x00ffffff-no-rj"></a>
     
   <span> From scratch: HTML and CSS for web projects (Alura Formation) </span>
 </h1>
