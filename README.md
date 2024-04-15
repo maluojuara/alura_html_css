@@ -24,14 +24,18 @@ This repository contains the files and projects developed during my learning pro
 
 <div align="left">
 
-| Course                                                            | Status | Certificate                                          |
+| Activity                                                            | Status | Certificate                                          |
 | ----------------------------------------------------------------- | ------- | --------------------------------------------------- | 
 | [HTML and CSS: development environments, file structure and tags](https://github.com/maluojuara/alura_html_css_basic/tree/main/Course_1)   |✅      | [🖇️](https://cursos.alura.com.br/certificate/maluojuara/html-css-ambiente-arquivos-tags) |
 | [HTML and CSS: Classes, positioning and Flexbox](https://github.com/maluojuara/alura_html_css_basic/tree/main/Course_2)                     |✅      | [🖇️](https://cursos.alura.com.br/user/maluojuara/course/html-css-classes-posicionamento-flexbox/certificate)  | 
 | [HTML and CSS: header, footer and CSS variables](https://github.com/maluojuara/alura_html_css/tree/main/Course_3)                    |✅      | [🖇️](https://cursos.alura.com.br/certificate/maluojuara/html-css-cabecalho-footer-variaveis-css?lang=en)  | 
 | [HTML and CSS: working with responsiveness and publishing projects](https://github.com/maluojuara/alura_html_css/tree/main/Course_4) |✅      | [🖇️](https://cursos.alura.com.br/certificate/maluojuara/html-css-responsividade-publicacao-projetos?lang=en)  | 
 | [HTML and CSS: practicing](https://github.com/maluojuara/alura_html_css/tree/main/Course_5) |✅     | [🖇️](https://cursos.alura.com.br/certificate/maluojuara/html-css-praticando-html-css?lang=en)  | 
-| HTML and CSS: responsiveness with mobile-first |☑️     | []()  |
+| [HTML and CSS: responsiveness with mobile-first](https://github.com/maluojuara/alura_books) |  ✅   | [🖇️](https://cursos.alura.com.br/certificate/maluojuara/html-css-responsividade-mobile-first?lang=en)  |
+| [7 days of Code - HTML and CSS](https://github.com/maluojuara/OptimusTech) |  ✅   | NA  |
+| [7 days of Code - Responsiveness](https://github.com/maluojuara/consultas) |  ✅   | NA  |
 
 
 </div>
+
+## 📌 Highlights 
