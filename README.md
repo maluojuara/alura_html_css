@@ -37,5 +37,3 @@ This repository contains the files and projects developed during my learning pro
 
 
 </div>
-
-## 📌 Highlights 
