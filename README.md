@@ -7,10 +7,10 @@
     <a href="https://cursos.alura.com.br/formacao-html-css">
       <img align="center" width="37px" src="https://yt3.googleusercontent.com/W7GokEE6ydjZFa_Tpz6yvSsDlVPTe7d4yTsJqKXy1Gbhu1BGXCfKJ_I-_TzOq37m8R9S97kQ=s900-c-k-c0x00ffffff-no-rj"></a>
     
-  <span> From scratch: HTML and CSS for web projects (Alura Formation) </span>
+  <span> From scratch: HTML and CSS for web projects (Alura learning path) </span>
 </h1>
 
-This repository contains the files and projects developed during my learning process at the HTML and CSS basic formation from Alura.
+This repository contains the files and projects developed during my learning process at the HTML and CSS basic learning path from Alura.
 
 ## 🛠️💻  Technologies and tools
 
